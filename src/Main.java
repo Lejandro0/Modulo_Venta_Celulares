@@ -4,7 +4,7 @@ import negocio.MetodoPago;
 import negocio.TarjetaCredito;
 import negocio.VentaCelulares;
 
-public class Main {
+public class Main {//er
     public static void main(String[] args) {
         // Crear inventario de celulares
         InventarioCelulares inventario = new InventarioCelulares();
